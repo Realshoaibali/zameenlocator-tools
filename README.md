@@ -8,3 +8,4 @@ This project showcases real estate and GIS mapping tools built for dynamic prope
 
 Useful for anyone interested in urban planning, property trends, or smart mapping tools.
 
+
